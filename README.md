@@ -40,10 +40,13 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [TransTrack: Multiple-Object Tracking with Transformer](https://arxiv.org/abs/2012.15460) | ArXiv | Trk | [GitHub](https://github.com/PeizeSun/TransTrack) | [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:QzpLQuJ5l44J:scholar.google.com/&output=citation&scisdr=CgUmooRjENWd0wS1QH4:AAGBfm0AAAAAX_-wWH4lrREtg2mlyHhTdsKrRwTMe_wY&scisig=AAGBfm0AAAAAX_-wWDKIgsxWD2AY6ASlNXLdgqhJmhXL&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 | [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877) | ArXiv | Reg | [GitHub](https://github.com/facebookresearch/deit) | [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:4M9RfcZARQAJ:scholar.google.com/&output=citation&scisdr=CgUmooQTEM3KnAOiWXQ:AAGBfm0AAAAAX_-nQXQ83NjCdo7Z_4UWZCvWuv3z-goK&scisig=AAGBfm0AAAAAX_-nQbm3aZWNrAaIc6-RB8eIGfbbMANa&scisf=4&ct=citation&cd=-1&hl=ja)
 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | ICLR | Reg | [GitHub](https://github.com/google-research/vision_transformer) | [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:K33r8boRRloJ:scholar.google.com/&output=citation&scisdr=CgUmooQTEM3KnAOgs5I:AAGBfm0AAAAAX_-lq5IwW1PWPCcrPyJSzxHG4hXCLpmx&scisig=AAGBfm0AAAAAX_-lq2wYJkeX630SaKwHHcWBaOT4DHMa&scisf=4&ct=citation&cd=-1&hl=ja)
 | [ ---](https://arxiv.org/abs/2010.11929) | --- | Det | [ ---]( ---) | [Bib]( ---)
+| [ ---](https://arxiv.org/abs/2010.11929) | --- | Det | [ ---]( ---) | [Bib]( ---)
+| [ ---](https://arxiv.org/abs/2010.11929) | --- | Seg | [ ---]( ---) | [Bib]( ---)
+| [ ---](https://arxiv.org/abs/2010.11929) | --- | Seg | [ ---]( ---) | [Bib]( ---)
+| [TransTrack: Multiple-Object Tracking with Transformer](https://arxiv.org/abs/2012.15460) | ArXiv | Trk | [GitHub](https://github.com/PeizeSun/TransTrack) | [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:QzpLQuJ5l44J:scholar.google.com/&output=citation&scisdr=CgUmooRjENWd0wS1QH4:AAGBfm0AAAAAX_-wWH4lrREtg2mlyHhTdsKrRwTMe_wY&scisig=AAGBfm0AAAAAX_-wWDKIgsxWD2AY6ASlNXLdgqhJmhXL&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 
 ### 2019
