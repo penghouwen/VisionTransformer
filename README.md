@@ -61,8 +61,7 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [Attention Is All You Need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) | NeurIPS'17 | -- | [GitHub](https://github.com/tensorflow/tensor2tensor) | [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:5Gohgn6QFikJ:scholar.google.com/&output=citation&scisdr=CgUmooQTEM3KnAOpBkw:AAGBfm0AAAAAX_-sHkzijdsn5y65D9owsYGf3-YseSgf&scisig=AAGBfm0AAAAAX_-sHibzGXIODmyijm8g7M7QCu4kbDHN&scisf=4&ct=citation&cd=-1&hl=ja)
-
+| [Attention Is All You Need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) | NeurIPS'17 | -- | [GitHub](https://github.com/tensorflow/tensor2tensor) | <details> <summary>Bib</summary> @inproceedings{vaswani2017attention, </br>   title={Attention is all you need}, </br>   author={Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, {\L}ukasz and Polosukhin, Illia}, </br>  booktitle={Advances in neural information processing systems}, </br>  pages={5998--6008}, </br>   year={2017} </br> } </details>
 
 ## Awesome vTransformer Libraies
 - [WaitingToAdd](https://github.com/penghouwen/VisionTransformer/blob/main/README.md)
