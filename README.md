@@ -29,7 +29,7 @@ You can add a tag for `domains` which contains several transformer-based works
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877) | ArXiv | Reg | [GitHub](https://github.com/facebookresearch/deit) | [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:4M9RfcZARQAJ:scholar.google.com/&output=citation&scisdr=CgUmooQTEM3KnAOiWXQ:AAGBfm0AAAAAX_-nQXQ83NjCdo7Z_4UWZCvWuv3z-goK&scisig=AAGBfm0AAAAAX_-nQbm3aZWNrAaIc6-RB8eIGfbbMANa&scisf=4&ct=citation&cd=-1&hl=ja)
-| [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/abs/2010.11929) | ICLR | Reg | [GitHub](https://github.com/google-research/vision_transformer) | [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:K33r8boRRloJ:scholar.google.com/&output=citation&scisdr=CgUmooQTEM3KnAOgs5I:AAGBfm0AAAAAX_-lq5IwW1PWPCcrPyJSzxHG4hXCLpmx&scisig=AAGBfm0AAAAAX_-lq2wYJkeX630SaKwHHcWBaOT4DHMa&scisf=4&ct=citation&cd=-1&hl=ja)
+| [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | ICLR | Reg | [GitHub](https://github.com/google-research/vision_transformer) | [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:K33r8boRRloJ:scholar.google.com/&output=citation&scisdr=CgUmooQTEM3KnAOgs5I:AAGBfm0AAAAAX_-lq5IwW1PWPCcrPyJSzxHG4hXCLpmx&scisig=AAGBfm0AAAAAX_-lq2wYJkeX630SaKwHHcWBaOT4DHMa&scisf=4&ct=citation&cd=-1&hl=ja)
 
 
 
