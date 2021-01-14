@@ -11,9 +11,14 @@ A curated list of vision transformer related resources. Please feel free to [pul
   - [2020 Venues](#2020)
   - [2019 Venues](#2019)
   - [Previous Venues](#2012-2018)
+  
+  - [Awesome Libraies](#awesome-surveys)
 
 ## Awesome Surveys
 
+|  Title  |   Venue  |   BibTeX  |
+|:--------|:--------:|:--------:|
+| [A Survey on Visual Transformer](https://arxiv.org/pdf/2012.12556.pdf) | ArXiv | [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:Aj10Crv7DScJ:scholar.google.com/&output=citation&scisdr=CgUmooQTEM3KnAOogfQ:AAGBfm0AAAAAX_-tmfT1yhaAeO62lS61HGcSpcXSUqJ5&scisig=AAGBfm0AAAAAX_-tmQAIcm-VKBRqnb9iTs8Sghq-6ssB&scisf=4&ct=citation&cd=-1&hl=ja)
 
 ## Transformer in Vision
 
@@ -54,3 +59,8 @@ You can add a tag for `domains` which contains several transformer-based works
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [Attention Is All You Need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) | NeurIPS'17 | -- | [GitHub](https://github.com/tensorflow/tensor2tensor) | [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:5Gohgn6QFikJ:scholar.google.com/&output=citation&scisdr=CgUmooQTEM3KnAOpBkw:AAGBfm0AAAAAX_-sHkzijdsn5y65D9owsYGf3-YseSgf&scisig=AAGBfm0AAAAAX_-sHibzGXIODmyijm8g7M7QCu4kbDHN&scisf=4&ct=citation&cd=-1&hl=ja)
+
+
+## Awesome vTransformer Libraies
+- [WaitingToAdd](https://github.com/penghouwen/VisionTransformer/blob/main/README.md)
+
