@@ -47,15 +47,7 @@ You can add a tag for `domains` which contains several transformer-based works
 | [ UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/abs/2011.09094) | ArXiv | Det | [ ---]( ---) | [Bib]( https://scholar.googleusercontent.com/scholar.bib?q=info:fKaDo0dq4ZQJ:scholar.google.com/&output=citation&scisdr=CgWnIAGoEIDLq_pSHIY:AAGBfm0AAAAAYAFXBIZ_wVD78VGiYjEbSztYdjCH6gAj&scisig=AAGBfm0AAAAAYAFXBCkannnFghByYVFUnKWIycAdbppk&scisf=4&ct=citation&cd=-1&hl=ja)
 | [ Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/abs/2010.04159) | ArXiv | Det | [ GitHub]( https://github.com/fundamentalvision/Deformable-DETR) | [Bib]( https://scholar.googleusercontent.com/scholar.bib?q=info:fKaDo0dq4ZQJ:scholar.google.com/&output=citation&scisdr=CgWnIAGoEIDLq_pSHIY:AAGBfm0AAAAAYAFXBIZ_wVD78VGiYjEbSztYdjCH6gAj&scisig=AAGBfm0AAAAAYAFXBCkannnFghByYVFUnKWIycAdbppk&scisf=4&ct=citation&cd=-1&hl=ja)
 | [ End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) | ECCV | Det | [ GitHub]( https://github.com/facebookresearch/detr) | [Bib]( https://citation-needed.springer.com/v2/references/10.1007/978-3-030-58452-8_13?format=bibtex&flavour=citation)
-| [ MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers](https://arxiv.org/abs/2012.00759) | --- | Seg | [ ---]( ---) | <details> <summary>Bib</summary> <p align="left">  @article{wang2020max, </br>
-  title={MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers}, </br>
-  author={Wang, Huiyu and Zhu, Yukun and Adam, Hartwig and Yuille, Alan and Chen, Liang-Chieh}, </br>
-  journal={arXiv preprint arXiv:2012.00759}, </br>
-  year={2020}
-}  </p></details>  
-
-
-
+| [ MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers](https://arxiv.org/abs/2012.00759) | --- | Seg | [ ---]( ---) | <details> <summary>Bib</summary> <p align="left">  @article{wang2020max, </br>  title={MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers}, </br>   author={Wang, Huiyu and Zhu, Yukun and Adam, Hartwig and Yuille, Alan and Chen, Liang-Chieh}, </br>   journal={arXiv preprint arXiv:2012.00759}, </br>   year={2020} </br> }  </br> </p></details>  
 | [ ---](https://arxiv.org/abs/2010.11929) | --- | Seg | [ ---]( ---) | [Bib]( ---)
 | [TransTrack: Multiple-Object Tracking with Transformer](https://arxiv.org/abs/2012.15460) | ArXiv | Trk | [GitHub](https://github.com/PeizeSun/TransTrack) | [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:QzpLQuJ5l44J:scholar.google.com/&output=citation&scisdr=CgUmooRjENWd0wS1QH4:AAGBfm0AAAAAX_-wWH4lrREtg2mlyHhTdsKrRwTMe_wY&scisig=AAGBfm0AAAAAX_-wWDKIgsxWD2AY6ASlNXLdgqhJmhXL&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
