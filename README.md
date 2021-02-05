@@ -61,8 +61,8 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877) | ArXiv | Reg | [GitHub](https://github.com/facebookresearch/deit) | -
-| [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | ICLR | Reg | [GitHub](https://github.com/google-research/vision_transformer) | -
+| [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909.pdf) | ArXiv | Reg | - | -
+
 
 ### 2012-2018
 
