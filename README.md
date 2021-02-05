@@ -61,7 +61,7 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909.pdf) | ArXiv | Reg | - | -
+| [**SASA**] [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909.pdf) | ArXiv | Reg | - | -
 
 
 ### 2012-2018
